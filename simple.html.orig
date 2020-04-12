@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+<<<<<<< HEAD
+	<title>Adding title3</title>
+=======
+	<title>Adding title2</title>
+>>>>>>> 765c1a5... adding another change after rebase1
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Just some content
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
